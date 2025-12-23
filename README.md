@@ -9,6 +9,10 @@
 ---
 
 ### 👨‍💻 About Me
+![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-brightgreen?style=for-the-badge&logo=tensorflow) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-AI-orange?style=for-the-badge&logo=pytorch) 
+![Networking](https://img.shields.io/badge/Networking-Cybersecurity-red?style=for-the-badge&logo=linux)
 
 - 🎓 4th Year **Information & Communication Engineering Undergraduate** at **SLTC Research University**  
 - 🤖 **AI Developer | Machine Learning Enthusiast | Cybersecurity Researcher**  
