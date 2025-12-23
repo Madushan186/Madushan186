@@ -36,14 +36,6 @@
   *Python | NLP | Deep Learning*  
   → Context-aware conversational AI for real-time applications  
 
-- 💧 **Smart Water Motor Control System**  
-  *Arduino | Sensors | Automation | AI*  
-  → Intelligent and energy-efficient motor control using predictive algorithms  
-
-- 📡 **InspiHER Projects (V1 – V3)**  
-  *Arduino | MATLAB | System Design*  
-  → Progressive hardware-software system development  
-
 ---
 
 ### 🏅 Leadership & Achievements
@@ -56,24 +48,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madushan186&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madushan186&theme=radical" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lakshitha-madushan-459065252/)  
 - 📧 [Email](mailto:lakshithamadushan186@gmail.com)  
-- 🌍 Portfolio Website: (https://lakshitha-portfolio-6z3lbv9cv-lakshitha-madushans-projects.vercel.app/)
+- 🌍 Portfolio Website: https://lakshitha-portfolio-6z3lbv9cv-lakshitha-madushans-projects.vercel.app/ 
 
----
-
-⭐ *“Building AI-driven systems that secure, optimize, and transform the world.”*
