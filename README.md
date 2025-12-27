@@ -5,22 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=Madushan186&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-### 🏆 Certifications & Cloud Badges
-
-<p align="left">
-  <a href="https://www.credly.com/badges/d5273f35-3ad3-4d74-a2e9-a34fcedba8f0/public_url" target="_blank">
-    <img 
-      src="https://www.credly.com/badges/d5273f35-3ad3-4d74-a2e9-a34fcedba8f0/image" 
-      width="130" 
-      alt="Cloud Computing Badge"
-    />
-  </a>
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 ![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python) 
