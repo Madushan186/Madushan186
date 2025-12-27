@@ -11,7 +11,11 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/d5273f35-3ad3-4d74-a2e9-a34fcedba8f0/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/1e8c4c10-6c0f-4e68-b1a7-6f0a1b3c0f8c.png" width="130" alt="Cloud Badge"/>
+    <img 
+      src="https://www.credly.com/badges/d5273f35-3ad3-4d74-a2e9-a34fcedba8f0/image" 
+      width="130" 
+      alt="Cloud Computing Badge"
+    />
   </a>
 </p>
 
