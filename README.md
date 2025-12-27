@@ -47,9 +47,7 @@
 
 - IEEE Techverse Sri Lanka – **University Representative**  
 - Chairperson – **Reflect Project (Research Publication)**  
-- Chairman – **Master Designer V2.0**  
-- Ambassador – **DECODE XTREME 24**  
-- Program Team Head – **Colours Night**  
+- Chairman – **Master Designer V2.0**   
 
 ---
 
