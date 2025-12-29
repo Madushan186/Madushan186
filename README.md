@@ -58,9 +58,9 @@
 ## 🔗 CONNECT_TO_CORE
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshitha-madushan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshitha-madushan-459065252/)
 [![Website](https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshitha-portfolio-6z3lbv9cv-lakshitha-madushans-projects.vercel.app/)
-[![Email](https://img.shields.io/badge/Secure_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshithamadushan02@gmail.com)
+[![Email](https://img.shields.io/badge/Secure_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshithamadushan186@gmail.com)
 
 </div>
 
