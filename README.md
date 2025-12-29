@@ -45,11 +45,17 @@
 - **Chair @ IEEE IAS SL Congress**: Leading student-led initiatives and coordinating national-level technical sessions.
 
 
-## 📊 ANALYTICS_DASHBOARD
+## 📊 ANALYTICS DASHBOARD
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madushan186&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=e2e8f0&bg_color=05070a" height="170" alt="stats report" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madushan186&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff&text_color=e2e8f0&bg_color=05070a" height="170" alt="languages report" />
+<!-- Profile Overview Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madushan186&theme=tokyonight" height="170" alt="Profile Overview" />
+
+<!-- Most Used Languages Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madushan186&theme=tokyonight" height="170" alt="Languages Usage" />
+
+<!-- Streak / Stats Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madushan186&theme=tokyonight" height="170" alt="GitHub Stats" />
 
 </div>
 
