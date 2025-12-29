@@ -52,6 +52,7 @@
 
 
 ## 📊 ANALYTICS DASHBOARD
+
 <div align="center">
 
 <!-- Profile Overview Card -->
@@ -62,6 +63,18 @@
 
 <!-- Streak / Stats Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madushan186&theme=tokyonight" height="170" alt="GitHub Stats" />
+
+<br><br>
+
+<!-- Animated Icons -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+
+<br><br>
+
+<!-- Activity Graph with Cyan Theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madushan186&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution Graph"/>
 
 </div>
 
