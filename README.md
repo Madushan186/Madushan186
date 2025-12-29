@@ -5,7 +5,7 @@
 
 ### `Information & Communication Engineering Undergraduate | SLTC`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=HI,+I'M+LAKSHITHA+MADUSHAN!;AI+%26+FULL-STACK+DEVELOPER;NETWORK+SECURITY+RESEARCHER;CLOUD+%26+QA+ENTHUSIAST;PROFESSIONAL+GRAPHIC+DESIGNER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00D2FF&center=true&vCenter=true&width=900&lines=HI,+I'M+LAKSHITHA+MADUSHAN!;AI+%26+FULL-STACK+DEVELOPER;NETWORK+SECURITY+RESEARCHER;CLOUD+%26+QA+ENTHUSIAST;PROFESSIONAL+GRAPHIC+DESIGNER)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
