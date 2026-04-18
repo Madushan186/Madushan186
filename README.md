@@ -16,15 +16,15 @@
 
 ## 📟 SYSTEM_STATUS.log
 ```zsh
-> BOOTING LAKSHITHA_OS... [OK]
-> IDENTITY: LAKSHITHA MADUSHAN (4th Year ICE Student)
+> BOOTING LAKSHITHA_DEVOPS_NODE... [OK]
+> IDENTITY: LAKSHITHA MADUSHAN (DevOps-Focused ICE Undergraduate)
 > LOCATION: SRI LANKA TECHNOLOGICAL CAMPUS (SLTC)
-> LEADERSHIP_MODE: ACTIVE 
-> STATUS: OPEN_FOR_COLLABORATION
-> QA_MODE: ENABLED (Manual & Automated Testing Expertise)
-> SYSTEM_METRICS: Performance: High-Efficiency Problem Solver
-> HIRING_SIGNAL: Actively seeking AI/ML, Network Security, or Full-Stack opportunities
-```
+> MODE: BUILDING & LEARNING CLOUD-NATIVE SYSTEMS
+> CORE_STACK: Docker | Kubernetes | Linux | Git | CI/CD
+> CURRENT_FOCUS: Monitoring, Automation & Infrastructure
+> SYSTEM_STATE: Actively Building Real-World DevOps Projects
+> AVAILABILITY: OPEN_FOR_INTERNSHIPS (DevOps / Cloud / Infrastructure)
+> MISSION: Design, Deploy & Monitor Scalable Systems
 
 ## 🛠 TECH_STACK // NEURAL_EXPERTISE
 <div align="center">
