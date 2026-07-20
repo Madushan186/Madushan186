@@ -236,10 +236,16 @@ Continuously improve.
 
 <div align="center">
 
-
-<a href="https://www.linkedin.com/in/lakshitha-madushan-459065252/">
+<a href="https://www.linkedin.com/in/lakshitha-madushan-459065252/" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+
+<a href="https://lakshitha-portfolio-gamma.vercel.app/" target="_blank">
+
+<img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -250,16 +256,7 @@ Continuously improve.
 
 </a>
 
-
-<a href="https://lakshitha-portfolio-6z3lbv9cv-lakshitha-madushans-projects.vercel.app/">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
-
 </div>
-
 
 ---
 
