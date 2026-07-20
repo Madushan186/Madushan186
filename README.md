@@ -1,99 +1,273 @@
 <div align="center">
 
-<!-- Animated Background Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FF&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:005bea&height=120&section=header"/>
 
-### `Information & Communication Engineering Undergraduate | SLTC`
+# 👋 Hi, I'm Lakshitha Madushan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00D2FF&center=true&vCenter=true&width=900&lines=HI,+I'M+LAKSHITHA+MADUSHAN!;DEVOPS+%7C+DOCKERIZED+SYSTEMS+%7C+K8s;INFRASTRUCTURE+AS+CODE+%7C+CI%2FCD;OBSERVABILITY+%7C+PROMETHEUS+%7C+GRAFANA;AUTOMATING+MODERN+CLOUD+WORKFLOWS)](https://git.io/typing-svg)
+### DevNetOps Engineer | Field Application Engineer | ICE Undergraduate @ SLTC
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&lines=DevNetOps+Engineer+in+Progress;Network+Automation+%7C+Cloud+Infrastructure;Docker+%7C+Kubernetes+%7C+Linux;CI%2FCD+%7C+Monitoring+%7C+Observability;Building+Reliable+Enterprise+Systems)](https://git.io/typing-svg)
 
-<!-- Profile View Counter -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Madushan186&color=00D2FF&style=flat-square)
-
-</div>
-
-## 📟 SYSTEM_STATUS.log
-```zsh
-> BOOTING LAKSHITHA_DEVOPS_NODE... [OK]
-> IDENTITY: LAKSHITHA MADUSHAN (DevOps-Focused ICE Undergraduate)
-> LOCATION: SRI LANKA TECHNOLOGICAL CAMPUS (SLTC)
-> MODE: BUILDING & LEARNING CLOUD-NATIVE SYSTEMS
-> CORE_STACK: Docker | Kubernetes | Linux | Git | CI/CD
-> CURRENT_FOCUS: Monitoring, Automation & Infrastructure
-> SYSTEM_STATE: Actively Building Real-World DevOps Projects
-> AVAILABILITY: OPEN_FOR_INTERNSHIPS (DevOps / Cloud / Infrastructure)
-> MISSION: Design, Deploy & Monitor Scalable Systems
-
-## 🛠 TECH_STACK // NEURAL_EXPERTISE
-<div align="center">
-
-| CATEGORY | TOOLS & TECHNOLOGIES |
-| :--- | :--- |
-| **AI & Computer Vision** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-| **Full-Stack & Cloud** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Security & QA** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Testing](https://img.shields.io/badge/QA_Engineering-00D2FF?style=for-the-badge) |
-| **Design Suite** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-
-</div>
-
-## 🚀 ACTIVE_OPERATIONS (PROJECT_VAULT)
-- 🔐 **AI-Based NIDS**: Developing an end-to-end security solution using ML to identify network threats in real-time with an interactive monitoring dashboard. (Final Year Project)
-- 👁️ **CV Interactive Systems**: Building gesture recognition and automated visual inspection systems using OpenCV and MediaPipe.
-- 🧠 **Smart AI Chatbot**: Context-aware NLP agent integrated into a full-stack environment, refined through rigorous QA protocols.
-
-## 🏅 LEADERSHIP_LOG
-- **IEEEXtreme 18.0 Student Ambassador**: Global representative and programming advocate.
-- **Chairman @ Master Designer V2.0**: Led creative strategy and brand quality assurance.
-- **Chairperson @ Reflect Project**: Driving research publication and academic initiatives.
-- **Chair @ IEEE IAS SL Congress**: Leading student-led initiatives and coordinating national-level technical sessions.
-
-
-## 📊 ANALYTICS DASHBOARD
-
-<div align="center">
-
-<!-- Profile Overview Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madushan186&theme=tokyonight" height="170" alt="Profile Overview" />
-
-<!-- Most Used Languages Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madushan186&theme=tokyonight" height="170" alt="Languages Usage" />
-
-<!-- Streak / Stats Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madushan186&theme=tokyonight" height="170" alt="GitHub Stats" />
-
-<br><br>
-
-<!-- Animated Icons -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-
-<br><br>
-
-<!-- Activity Graph with Cyan Theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madushan186&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🔗 CONNECT_TO_CORE
+# 👨‍💻 About Me
+
+I am an **Information & Communication Engineering undergraduate at SLTC Research University** and currently working as a **Field Application Engineer**.
+
+My main interest is building and maintaining reliable infrastructure by combining:
+
+- 🌐 Network Engineering
+- ⚙️ DevOps Practices
+- ☁️ Cloud Technologies
+- 🐳 Containerization
+- 📊 Monitoring & Observability
+- 🤖 AI-powered Network Solutions
+
+I enjoy working with enterprise systems, deploying solutions, troubleshooting complex environments, and automating infrastructure operations.
+
+---
+
+# 💼 Professional Experience
+
+## Field Application Engineer
+
+Working with enterprise networking and monitoring solutions.
+
+### Responsibilities
+
+- Enterprise system deployment and configuration
+- Linux server administration
+- Network troubleshooting and analysis
+- Customer technical demonstrations
+- Product installation and validation
+- Infrastructure monitoring
+- Technical documentation
+- Supporting enterprise environments
+
+---
+
+# 🚀 Current Focus
+
+```yaml
+Current_Role:
+  Field Application Engineer
+
+Engineering_Focus:
+  - DevNetOps
+  - Network Automation
+  - Cloud Infrastructure
+  - Kubernetes Administration
+  - Infrastructure Monitoring
+
+Learning:
+  - Kubernetes Advanced Concepts
+  - CI/CD Automation
+  - Infrastructure as Code
+  - AWS Cloud
+  - Terraform
+
+Goal:
+  Build scalable, automated and observable infrastructure
+```
+
+---
+
+# 🛠️ DevNetOps Tech Stack
+
+## Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
+## Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+## CI/CD & Automation
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+
+## Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+## Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+
+## Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+![SNMP](https://img.shields.io/badge/SNMP-Network_Monitoring-blue?style=for-the-badge)
+
+
+## Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+# 📂 Featured Projects
+
+
+## 🔐 AI-Augmented Network Intrusion Detection System
+
+A real-time network security platform combining AI models with traffic analysis.
+
+**Technologies**
+
+- Python
+- Machine Learning
+- Network Traffic Analysis
+- React Dashboard
+- WebSocket
+- MongoDB
+
+
+---
+
+## ☸️ Self-Healing Kubernetes Monitoring Platform
+
+A cloud-native monitoring system designed to observe, analyze and recover services automatically.
+
+**Technologies**
+
+- Docker
+- Kubernetes
+- FastAPI
+- Prometheus
+- Grafana
+- Linux
+
+
+---
+
+## 🌐 Enterprise Network Monitoring Solutions
+
+Projects focused on:
+
+- SNMP Monitoring
+- Network Visibility
+- Infrastructure Analysis
+- Traffic Monitoring
+- Device Integration
+
+
+---
+
+## 🤖 AI Knowledge Assistant
+
+A RAG-based intelligent assistant using:
+
+- Local LLMs
+- Vector Database
+- Python
+- Full Stack Integration
+
+
+---
+
+# 🏆 Certifications & Learning
+
+🎓 AWS Academy Cloud Foundations
+
+🐳 Docker & Kubernetes - KodeKloud
+
+🌐 CCNA - University of Moratuwa
+
+🐧 Linux Administration
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshitha-madushan-459065252/)
-[![Website](https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshitha-portfolio-6z3lbv9cv-lakshitha-madushans-projects.vercel.app/)
-[![Email](https://img.shields.io/badge/Secure_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshithamadushan186@gmail.com)
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madushan186&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madushan186&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Madushan186&theme=tokyo-night&hide_border=true"/>
+
 
 </div>
 
+
+---
+
+# 🌱 Engineering Philosophy
+
+```
+Automate repetitive tasks.
+Monitor everything.
+Build reliable systems.
+Continuously improve.
+```
+
+---
+
+# 🔗 Connect With Me
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-<p font-family="monospace"><i>"Merging creative vision with engineering precision to build the next generation of intelligent systems."</i></p>
+
+
+<a href="https://www.linkedin.com/in/lakshitha-madushan-459065252/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+
+<a href="mailto:lakshithamadushan186@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+
+<a href="https://lakshitha-portfolio-6z3lbv9cv-lakshitha-madushans-projects.vercel.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+
 </div>
-<!-- Footer Animation: Waving Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FF&height=150&section=footer" width="100%" />
-</p>
+
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005bea,100:00D2FF&height=100&section=footer"/>
+
+
+**"Building the bridge between Networks, Automation and Cloud Infrastructure."**
+
+</div>
